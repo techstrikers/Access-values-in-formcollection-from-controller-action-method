@@ -1,0 +1,5 @@
+C:\development\FormCollection\DataAccessLib\bin\Debug\DataAccessLib.dll
+C:\development\FormCollection\DataAccessLib\bin\Debug\DataAccessLib.pdb
+C:\development\FormCollection\DataAccessLib\obj\Debug\DataAccessLib.csprojResolveAssemblyReference.cache
+C:\development\FormCollection\DataAccessLib\obj\Debug\DataAccessLib.dll
+C:\development\FormCollection\DataAccessLib\obj\Debug\DataAccessLib.pdb
